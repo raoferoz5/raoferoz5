@@ -15,18 +15,18 @@ I am a results-driven developer based in Vehari, Pakistan, with over 2 years of 
 *   **[Smart Recipe Finder](https://github.com/raoferoz5/RecipeFinderApp)**: AI-powered assistant for personalized meal management.
 
 ### 🏢 Enterprise Backend Solutions
-*   **[Car Insurance System](https://github.com/raoferoz5/CarInsurance)**: Robust policy management built with ASP.NET MVC and C#.[cite: 1]
-*   **[Employee Comparison Engine](https://github.com/raoferoz5/EmployeeComparison10)**: High-performance C# backend for organizational data analytics.[cite: 1]
+*   **[Car Insurance System](https://github.com/raoferoz5/CarInsurance)**: Robust policy management built with ASP.NET MVC and C#.
+*   **[Employee Comparison Engine](https://github.com/raoferoz5/EmployeeComparison10)**: High-performance C# backend for organizational data analytics.
 
 ---
 
 ## 🛠 Tech Stack
-*   **Languages:** Python, C#, JavaScript, SQL[cite: 1]
-*   **Frameworks:** .NET (ASP.NET MVC), Kivy/KivyMD, pandas[cite: 1]
-*   **Tools:** Git, GitHub, VS Code, PyCharm, Buildozer[cite: 1]
+*   **Languages:** Python, C#, JavaScript, SQL
+*   **Frameworks:** .NET (ASP.NET MVC), Kivy/KivyMD, pandas
+*   **Tools:** Git, GitHub, VS Code, PyCharm, Buildozer
 
 ---
 
 ## 📫 Let's Connect
-*   **LinkedIn:** [muhammad-sajid-softwaredeveloper](https://www.linkedin.com/in/muhammad-sajid-softwaredeveloper/)[cite: 1]
-*   **Email:** raoferoz5@gmail.com[cite: 1]
+*   **LinkedIn:** [muhammad-sajid-softwaredeveloper](https://www.linkedin.com/in/muhammad-sajid-softwaredeveloper/
+*   **Email:** raoferoz5@gmail.com
