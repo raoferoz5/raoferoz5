@@ -27,7 +27,7 @@ I am a results-driven **Software Developer** based in Vehari, Pakistan, with ove
 
 #### #### 💬 High-Performance Backend & Real-Time Engines
 
-* **[Chat Application Backend](https://www.google.com/search?q=https://chat-backend-production-d04b.up.railway.app)**: A scalable, containerized asynchronous backend engine featuring persistent WebSocket connections, JWT authentication, and optimized multi-room data pagination. Deployed on Railway.
+* **[Chat Application Backend](https://chat-backend-production-d04b.up.railway.app)**: A scalable, containerized asynchronous backend engine featuring persistent WebSocket connections, JWT authentication, and optimized multi-room data pagination. Deployed on Railway.
 
 #### #### 🤖 AI & Computer Vision
 
